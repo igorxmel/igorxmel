@@ -1,13 +1,14 @@
+<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 10px;">  
+    <img alt="Logo" src="logo.svg" width="150" height="150"/>  
+</div>  
 
-<div style="justify-self: center; display: flex; font-family: 'Arial'">
-<img src="frontend/src/components/img/logo.svg" width="100px" margin-right="10">
-<p style="font-size: 100;">Giga</p><p style="font-size: 100; color: #347bfd">NET</p>
+<div align="center">  
+    <h1>GigaNET</h1>  
 </div>
-
-<hr>
 
 > [!WARNING]
 > Продукт еще не готов к выпуску, есть много недочетов, возможны баги
+
 
 > 🏆 Этот проект был разработан в рамках хакатона **Хакатон Осень 2025** (24-26 октября 2025) <br>
 > <img src="https://img.icons8.com/fluency/48/000000/microsoft-powerpoint-2019.png" width="20" height="20" style="margin-bottom: -4"/> **[Презентация проекта](GigaTeamTitanit.pptx)**  
@@ -29,7 +30,7 @@ GigaNET - интеллектуальная платформа, которая п
 
 ## Хакатон Осень 2025:
 
-1) Для успешного запуска клонируйте репозиторий, пользуясь документацией sourcecraft.dev <img src="https://46f32a42-e4ff-489b-8e03-b52e4d70fd18.selcdn.net/i/webp/ae/2c80468dba726b4abd8de3d5ff6f03.webp" style="width: 16; margin-bottom: -4">
+1) Для успешного запуска клонируйте репозиторий, пользуясь документацией sourcecraft.dev <img src="https://46f32a42-e4ff-489b-8e03-b52e4d70fd18.selcdn.net/i/webp/ae/2c80468dba726b4abd8de3d5ff6f03.webp" width="13" height="13">
 
 2) Перейдите в папку frontend:
 ```cmd
@@ -84,9 +85,7 @@ npm run dev --host
 - ссылки для подключения к сайту появятся в том же терминале
 
 <br>
-<hr>
-<br>
 
-<div style="justify-self: center; font-family: 'Arial Black'; font-size: 50px">
-Слава sourcecraft.dev! <img src="https://46f32a42-e4ff-489b-8e03-b52e4d70fd18.selcdn.net/i/webp/ae/2c80468dba726b4abd8de3d5ff6f03.webp" style="width: 56; margin-bottom: -8">
+<div align="center">
+<h1> Слава sourcecraft.dev! <img src="https://46f32a42-e4ff-489b-8e03-b52e4d70fd18.selcdn.net/i/webp/ae/2c80468dba726b4abd8de3d5ff6f03.webp" width="33" height="33">
 </div>
