@@ -37,6 +37,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 
+<!--
 ## Competitions
 
 - [RinHack #9](https://github.com/GigaGitCoder/GigaPack) (November 29 - December 1, 2024)
@@ -49,6 +50,7 @@
 - [SibGameJam](https://happyflamestudio.itch.io/battlebeat) (May 1 - 3, 2025)
   - 📌 [175th place](https://itch.io/jam/sibgamejam-may-2025/rate/3523789)
 ##
+-->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/GigaGitCoder/GigaGitCoder/output/snake.svg" alt="Snake animation" />
