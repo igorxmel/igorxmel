@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&width=1000&height=100&lines=C%3A%5C%3E+start+GigaGitCoder.about;Hi+there%2C+my+name+is+Egor%2C+18+y.o.;I'm+beginner+programmer+from+Russia;I'm+trying+to+find+myself;Some+day+i'll+become+Game+Designer+%3A3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&width=1000&height=100&lines=C%3A%5C%3E+start+GigaGitCoder.about;Hi+there%2C+my+name+is+Egor%2C+19+y.o.;I'm+beginner+programmer+from+Russia;I'm+trying+to+find+myself;Some+day+i'll+become+Game+Designer+%3A3)](https://git.io/typing-svg)
 
 </div>
 
