@@ -71,6 +71,6 @@
 
 <img src="https://img.shields.io/badge/Days_without_bugs-0-red?style=for-the-badge" alt="Дней без багов: 0" />
 
-<sub>Just a joke ;P</sub>
+<!-- <sub>Just a joke ;P</sub> -->
 
 </div>
