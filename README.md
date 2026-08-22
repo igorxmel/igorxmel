@@ -71,6 +71,6 @@ The feedback I keep hearing from teammates and tech leads is about product think
 
 <img src="https://img.shields.io/badge/Days_without_bugs-0-red?style=for-the-badge" alt="Days without bugs: 0" />
 
-<sub>Just a joke ;P</sub>
+<!-- <sub>Just a joke ;P</sub> -->
 
 </div>
