@@ -1,62 +1,76 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&width=1000&height=100&lines=C%3A%5C%3E+start+GigaGitCoder.about;Hi+there%2C+my+name+is+Egor%2C+19+y.o.;I'm+beginner+programmer+from+Russia;I'm+trying+to+find+myself;Some+day+i'll+become+Game+Designer+%3A3)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=600&height=60&lines=%24+whoami;Backend+developer;Java+%C2%B7+Spring+Boot+%C2%B7+Python;Open+to+work)](https://git.io/typing-svg)
+
+[![Русский README](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9_README-30363d?style=flat-square)](README.ru.md)
 
 </div>
 
-## Contact Me
+<div align="justify">
 
-![Discord](https://img.shields.io/badge/Discord-dishunter-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-[![Telegram](https://img.shields.io/badge/Telegram-@IgorXmel-27a7e7?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IgorXmel) <br>
-[![YouTube](https://img.shields.io/badge/YouTube-@gdmanjournal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@gdmanjournal)
-[![Gmail](https://img.shields.io/badge/Gmail-egorkholkin2018@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:egorkholkin2018@gmail.com)
+Backend developer. Java and Spring Boot mostly, Python alongside it.
 
-## Technologies
+Spent my internship at **hh.ru** building the backend of an internal platform for selecting analyst schools - Spring Boot, PostgreSQL with Liquibase migrations, MinIO for file storage, everything in Docker with deployment through GitHub Actions. I also built an AI-assisted code review feature that helps admins review submitted solutions.
 
-### Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+Backend is my main craft, but not the only thing I do well. I integrate AI features into real products, work confidently with modern tooling, and I'm going deeper into DevOps and CI/CD.
 
-### Game Engines
-![UnrealEngine](https://img.shields.io/badge/Unreal_Engine_5-%23323330.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
-![Unity](https://img.shields.io/badge/Unity-%23525252.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![Godot](https://img.shields.io/badge/Godot-%233D85C6.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+The feedback I keep hearing from teammates and tech leads is about product thinking - I'm good at shaping and developing ideas, not just implementing someone else's. They also say I'm easy to reach and someone you can count on when production breaks.
 
-### Version Control
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge) 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+**Currently looking for a backend role.**
 
-### Design
-![Blender](https://img.shields.io/badge/Blender-%23ea7600.svg?style=for-the-badge&logo=blender&logoColor=white) 
-![Photoshop](https://img.shields.io/badge/Photoshop-%23001e36.svg?style=for-the-badge&logo=adobephotoshop&logoColor=%23288fda) 
-![Illustrator](https://img.shields.io/badge/Illustrator-%232d0506.svg?style=for-the-badge&logo=adobeillustrator&logoColor=%23d08005)
+</div>
 
-### Web Development
-![Django](https://img.shields.io/badge/Django-%23142f27.svg?style=for-the-badge&logo=Django&logoColor=%23FFFFFF) 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+## Experience
 
-<!--
-## Competitions
+**Backend Developer Intern** - hh.ru (February 2026 - August 2026)
 
-- [RinHack #9](https://github.com/GigaGitCoder/GigaPack) (November 29 - December 1, 2024)
-  - 💼 Got an internship offer at [FastReport](https://быстрыеотчеты.рф)
-  - 📰 Featured in [Molot newspaper](https://don24.tv/uploads/Molot/Molot_91-10_12_2024-.pdf)
-- [DevHack #5](https://github.com/GigaGitCoder/web_knb) (February 26 - March 2, 2025)
-  - 🏆 2nd place
-- [Хакатон Весна 2025](https://github.com/GigaGitCoder/GigaSecretary) (April 4 - 6, 2025)
-  - 🏆 2nd place
-- [SibGameJam](https://happyflamestudio.itch.io/battlebeat) (May 1 - 3, 2025)
-  - 📌 [175th place](https://itch.io/jam/sibgamejam-may-2025/rate/3523789)
-##
--->
+## Stack
+
+**Backend**  
+![Java](https://img.shields.io/badge/Java-30363d?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-30363d?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-30363d?style=flat-square&logo=python&logoColor=white)
+
+**Data**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363d?style=flat-square&logo=postgresql&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-30363d?style=flat-square&logo=liquibase&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-30363d?style=flat-square&logo=minio&logoColor=white)
+
+**Infrastructure**  
+![Docker](https://img.shields.io/badge/Docker-30363d?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-30363d?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-30363d?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-30363d?style=flat-square&logo=linux&logoColor=white)
+
+**AI**  
+![Claude](https://img.shields.io/badge/Claude-30363d?style=flat-square&logo=claude&logoColor=white)
+
+## Projects
+
+**[JavaLibrary](https://github.com/igorxmel/JavaLibrary)** - a Java Spring-based library project with a fully automated and well-tested setup and deployment process.
+
+<!-- Сюда добавишь hh-analyst-checkup, если репозиторий когда-нибудь откроют -->
+
+## Hackathons
+
+| Event | Result |
+| --- | --- |
+| DevHack #5 | 2nd place |
+| Хакатон Весна 2025 | 2nd place |
+| DevHack #6 | 3rd place |
+| RinHack #9 | Finalist |
+
+## Contact
+
+[![Telegram](https://img.shields.io/badge/Telegram-@IgorXmel-30363d?style=flat-square&logo=telegram&logoColor=white)](https://t.me/IgorXmel)
+[![Email](https://img.shields.io/badge/Email-mail.igorxmel@gmail.com-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:mail.igorxmel@gmail.com)
+
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GigaGitCoder/GigaGitCoder/output/snake.svg" alt="Snake animation" />
-</div> 
 
-<!-- Fun counter -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Days_without_bugs-0-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Days_without_bugs-0-red?style=for-the-badge" alt="Days without bugs: 0" />
+
+<sub>Just a joke ;P</sub>
+
 </div>
