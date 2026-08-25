@@ -53,6 +53,8 @@ The feedback I keep hearing from teammates and tech leads is about product think
 
 ## Hackathons
 
+Over three years I've done more than ten hackathons, leading the team in each - putting the team together, splitting the work, presenting at the demo.
+
 | Event | Result |
 | --- | --- |
 | DevHack #5 | 2nd place |
