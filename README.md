@@ -64,7 +64,7 @@ Over three years I've done more than ten hackathons, leading the team in each - 
 
 ## Contact
 
-[![Website](https://img.shields.io/badge/Website-igorxmel.github.io-30363d?style=flat-square&logo=googlechrome&logoColor=white)](https://igorxmel.github.io/)
+[![Website](https://img.shields.io/badge/Website-igorxmel.github.io-30363d?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPSd3aGl0ZScgc3Ryb2tlLXdpZHRoPScyJyBzdHJva2UtbGluZWNhcD0ncm91bmQnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPjxjaXJjbGUgY3g9JzEyJyBjeT0nMTInIHI9JzEwJy8+PHBhdGggZD0nTTIgMTJoMjAnLz48cGF0aCBkPSdNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHonLz48L3N2Zz4=)](https://igorxmel.github.io/)
 [![Telegram](https://img.shields.io/badge/Telegram-@IgorXmel-30363d?style=flat-square&logo=telegram&logoColor=white)](https://t.me/IgorXmel)
 [![Email](https://img.shields.io/badge/Email-mail.igorxmel@gmail.com-30363d?style=flat-square&logo=gmail&logoColor=white)](mailto:mail.igorxmel@gmail.com)
 
